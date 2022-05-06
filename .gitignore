@@ -1,1 +1,3 @@
 .directory
+*.ipynb_checkpoints*
+*/models/*
